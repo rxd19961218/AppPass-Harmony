@@ -22,9 +22,6 @@
 
 ### 1. 本地集成
 将本仓库克隆至你的项目目录：
-```bash
-git clone https://github.com
-```
 
 ### 2. 执行审计
 确保你的元数据文件（如 `metadata/*.json`）路径正确，然后运行：
