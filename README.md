@@ -32,7 +32,7 @@ git clone https://github.com
 
 ### 3. 作为 AI Agent 技能 (Skill)
 如果你正在使用支持 Skill 的 AI 助手（如 DevEco Studio 内置助手），只需将 `SKILL.md` 导入，并提问：
-> “帮我审计一下当前的 App 上架元数据是否有违规风险？”
+> “按照 app-metadata-audit-skill 规范，审查我当前的华为应用元数据，并输出一份审计报告。”
 
 
 ## 🤝 贡献规范
